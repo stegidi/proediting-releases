@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ProEditing Aggiornamenti</title>
+        <link>https://raw.githubusercontent.com/stegidi/proediting-releases/main/appcast.xml</link>
+        <description>Nuove versioni e aggiornamenti per ProEditing.</description>
+        <language>it</language>
+        <item>
+            <title>ProEditing 1.0</title>
+            <sparkle:releaseNotesLink>https://github.com/stegidi/proediting-releases/releases/tag/v1.0</sparkle:releaseNotesLink>
+            <pubDate>Mon, 02 Nov 2026 22:52:45 +0100</pubDate>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/stegidi/proediting-releases/releases/download/v1.0/ProEditing.zip"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0"
+                sparkle:edSignature="iZFScz92MqswgiuNSMVkXoFz9GBssVpMkgczgN0ZDjdi5Q7NXL/uxCLYB4m3jxynIRWz0K9723GaE2oiXRFBCw=="
+                length="3022546"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
